@@ -1,0 +1,27 @@
+{
+    "exclude": [
+        "**/submodules",
+        "**/__pycache__",
+        "**/.git",
+        "**/build/**",
+        "*.egg-info/",
+        "*.egg",
+        "*.pyc",
+        "*.jpg",
+        "*.png",
+        "*.ply",
+        "*.obj",
+        "*.log",
+        "checkpoints/",
+        "submission*/",
+        "outputs/",
+        "datasets/",
+        "exp_results/",
+        // "mast3r/",
+        // "dust3r/"
+    ],
+    "ignore": [
+        "**/.vscode",
+        "**/*.pyi",
+    ],
+  }
