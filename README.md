@@ -45,7 +45,7 @@ We build upon planar primitives introduced in [PlanarSplatting](https://github.c
 ## ⚙️ Installation
 ### 1. Clone PLANA3R
 
-### 2. Create the enviroment
+### 2. Create the environment
 ```
 # cuda 12.1, python 3.8, torch 2.4.1
 
