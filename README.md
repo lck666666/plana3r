@@ -112,7 +112,7 @@ The best results are in **bold**.
 - [ ] Release the training code
 
 
-## 🙏 Acknowledgements
+## 🙏 Acknowledgements 
 This work was supported by Ant Group Research Intern Program and Ant Group Postdoctoral Program. This project is developed based on several fantastic repos:
 
 - [DUSt3R](https://github.com/naver/dust3r)
